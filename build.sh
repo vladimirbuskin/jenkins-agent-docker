@@ -1,1 +1,1 @@
-docker build . -t jba
+docker build . -t vladimirbuskin/jad
