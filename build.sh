@@ -1,1 +1,1 @@
-docker build . -t vladimirbuskin/jad
+docker build . -t vladimirbuskin/jad:latest
